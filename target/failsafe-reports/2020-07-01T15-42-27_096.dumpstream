@@ -1,0 +1,129 @@
+# Created at 2020-07-01T15:42:29.812
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-01T15:42:29.813
+
+
+# Created at 2020-07-01T15:42:29.815
+-------------------------------------------------------------------------------------
+
+# Created at 2020-07-01T15:42:29.816
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+
+# Created at 2020-07-01T15:42:29.817
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+
+# Created at 2020-07-01T15:42:29.818
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+
+# Created at 2020-07-01T15:42:29.819
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+
+# Created at 2020-07-01T15:42:29.820
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+
+# Created at 2020-07-01T15:42:29.822
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+
+# Created at 2020-07-01T15:42:29.823
+                                                                                     
+
+# Created at 2020-07-01T15:42:29.825
+ News and tutorials at http://www.serenity-bdd.info                                  
+
+# Created at 2020-07-01T15:42:29.826
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+
+# Created at 2020-07-01T15:42:29.827
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+
+# Created at 2020-07-01T15:42:29.829
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+
+# Created at 2020-07-01T15:42:29.830
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+
+# Created at 2020-07-01T15:42:29.831
+-------------------------------------------------------------------------------------
+
+# Created at 2020-07-01T15:42:29.832
+
+
+# Created at 2020-07-01T15:42:29.833
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Order a Kindle
+
+# Created at 2020-07-01T15:42:30.148
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Order a Kindle
+
+# Created at 2020-07-01T15:42:30.369
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-01T15:42:30.370
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-07-01T15:42:30.371
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-07-01T15:42:30.372
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-07-01T15:42:30.374
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-07-01T15:42:30.375
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-07-01T15:42:30.376
+                                                                  
+
+# Created at 2020-07-01T15:42:30.378
+
+
+# Created at 2020-07-01T15:42:30.379
+TEST STARTED: Order a Kindle
+
+# Created at 2020-07-01T15:42:30.380
+-------------------------------------------------------------------(order-a-kindle;order-a-kindle)
+
+# Created at 2020-07-01T15:42:31.715
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-07-01T15:42:31.719
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+
+# Created at 2020-07-01T15:43:07.967
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-07-01T15:43:07.968
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+
+# Created at 2020-07-01T15:43:07.969
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+
+# Created at 2020-07-01T15:43:07.970
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+
+# Created at 2020-07-01T15:43:07.972
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+
+# Created at 2020-07-01T15:43:07.973
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+
+# Created at 2020-07-01T15:43:07.974
+          \_\                                                            
+
+# Created at 2020-07-01T15:43:07.975
+
+
+# Created at 2020-07-01T15:43:07.976
+TEST FAILED WITH ERROR: Order a Kindle
+
+# Created at 2020-07-01T15:43:07.977
+---------------------------------------------------------------------
+
+# Created at 2020-07-01T15:43:08.158
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP Login page step: 0332212277, PTM NQB 232711
+
+# Created at 2020-07-01T15:43:08.159
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='email']"}
+
